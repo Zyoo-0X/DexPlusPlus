@@ -51,3 +51,4 @@ Every donation is highly apreciated, this is compeletely optional.
 - [Cazan](https://github.com/Cazzanos) – Helped me develop the Model Viewer  
 - [Moon](https://github.com/LorekeeperZinnia/Dex) – Original Dex Explorer  
 - [Toon](https://github.com/Toon-arch) – Contributor and IY's Dex parts and components
+- [SSY Team](https://github.com/Zyoo-0X) - Moddify an delete to working to SSY
