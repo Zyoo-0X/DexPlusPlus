@@ -5,7 +5,7 @@ Dex++ is an extended version of Moon's Dex, made to fulfill some Moon's Dex prop
 
 ## Latest Version Script
 ```lua
-loadstring(game:HttpGet("[https://github.com/AZYsGithub/DexPlusPlus/releases/latest/download/out.lua](https://raw.githubusercontent.com/Zyoo-0X/DexPlusPlus/refs/heads/main/main.lua)"))()
+loadstring(game:HttpGet("[[https://github.com/AZYsGithub/DexPlusPlus/releases/latest/download/out.lua](https://raw.githubusercontent.com/Zyoo-0X/DexPlusPlus/refs/heads/main/main.lua)](https://raw.githubusercontent.com/Zyoo-0X/DexPlusPlus/refs/heads/main/main.lua)"))()
 ```
 
 ## What's the difference between Dex and Dex++?
@@ -22,7 +22,6 @@ Here are the features that were added/fixed in Dex++
 - Revived Save Instance (original Dex doesnt have it, but does in Dex 2.0)
 - Click part to select (thx Toon :3)
 - CodeFrame cursor offset (where cursor on textbox were not aligned properly)
-- Use from [AZYsGithub](https://github.com/AZYsGithub)
 
 ## About Dex Roadmap
 The concept of the Dex roadmap is amazing, however neither me nor Moon have the ability to fulfil the full roadmap. I did have added few stuffs in my fork but mostly of them are beyond my limit and i did this project for fun.
