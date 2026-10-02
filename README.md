@@ -5,7 +5,7 @@ Dex++ is an extended version of Moon's Dex, made to fulfill some Moon's Dex prop
 
 ## Latest Version Script
 ```lua
-loadstring(game:HttpGet("[[https://github.com/AZYsGithub/DexPlusPlus/releases/latest/download/out.lua](https://raw.githubusercontent.com/Zyoo-0X/DexPlusPlus/refs/heads/main/main.lua)](https://raw.githubusercontent.com/Zyoo-0X/DexPlusPlus/refs/heads/main/main.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zyoo-0X/DexPlusPlus/refs/heads/main/main.lua"))()
 ```
 
 ## What's the difference between Dex and Dex++?
